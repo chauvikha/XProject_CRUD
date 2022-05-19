@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "Development": "Data Source=DESKTOP-L7QS3BG\\SQLEXPRESS;Initial Catalog=xproject;User ID=sa;Password=sa123;"
+  }
+}
